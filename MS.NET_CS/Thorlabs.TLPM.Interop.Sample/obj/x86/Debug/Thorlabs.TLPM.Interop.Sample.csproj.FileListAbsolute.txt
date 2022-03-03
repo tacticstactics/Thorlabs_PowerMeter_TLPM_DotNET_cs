@@ -1,0 +1,48 @@
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Example\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Sample.exe.config
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Example\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Sample.exe
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Example\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Sample.pdb
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Example\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Sample.xml
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Example\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Sample.exe.CodeAnalysisLog.xml
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Example\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Sample.exe.lastcodeanalysissucceeded
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Example\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Thorlabs.TLPM_32.Interop.dll
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Example\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Thorlabs.TLPM_32.Interop.xml
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Example\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Thorlabs.TLPM_32.Interop.Sample.Form1.resources
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Example\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Thorlabs.TLPM_32.Interop.Sample.Properties.Resources.resources
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Example\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Thorlabs.TLPM.Interop.Sample.csproj.GenerateResource.Cache
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Example\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Thorlabs.TLPM.Interop.Sample.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Example\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Sample.exe
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Example\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Sample.pdb
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Sample.exe.config
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Sample.exe
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Sample.pdb
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Sample.xml
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Sample.exe.CodeAnalysisLog.xml
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Sample.exe.lastcodeanalysissucceeded
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Thorlabs.TLPM_32.Interop.dll
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Thorlabs.TLPM_32.Interop.xml
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Thorlabs.TLPM.Interop.Sample.csproj.AssemblyReference.cache
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Thorlabs.TLPM_32.Interop.Sample.Form1.resources
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Thorlabs.TLPM_32.Interop.Sample.Properties.Resources.resources
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Thorlabs.TLPM.Interop.Sample.csproj.GenerateResource.cache
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Thorlabs.TLPM.Interop.Sample.csproj.CoreCompileInputs.cache
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Thorlabs.TLPM.Interop.Sample.csproj.CopyComplete
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Sample.exe
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Sample.pdb
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Thorlabs.TLPM.Interop.Sample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Sample.exe.config
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Sample.exe
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Sample.pdb
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Sample.xml
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Sample.exe.CodeAnalysisLog.xml
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Sample.exe.lastcodeanalysissucceeded
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Thorlabs.TLPM_32.Interop.dll
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\bin\x86\Debug\Thorlabs.TLPM_32.Interop.xml
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Thorlabs.TLPM.Interop.Sample.csproj.AssemblyReference.cache
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Thorlabs.TLPM.Interop.Sample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Thorlabs.TLPM_32.Interop.Sample.Form1.resources
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Thorlabs.TLPM_32.Interop.Sample.Properties.Resources.resources
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Thorlabs.TLPM.Interop.Sample.csproj.GenerateResource.cache
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Thorlabs.TLPM.Interop.Sample.csproj.CoreCompileInputs.cache
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Thorlabs.TLPM.Interop.Sample.csproj.CopyComplete
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Sample.exe
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample\obj\x86\Debug\Sample.pdb

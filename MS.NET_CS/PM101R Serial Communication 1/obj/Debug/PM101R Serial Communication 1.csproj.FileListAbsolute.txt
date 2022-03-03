@@ -1,0 +1,10 @@
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\PM101R Serial Communication 1\bin\Debug\PM101R Serial Communication 1.exe.config
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\PM101R Serial Communication 1\bin\Debug\PM101R Serial Communication 1.exe
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\PM101R Serial Communication 1\bin\Debug\PM101R Serial Communication 1.pdb
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\PM101R Serial Communication 1\bin\Debug\Thorlabs.TLPM_32.Interop.dll
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\PM101R Serial Communication 1\bin\Debug\Thorlabs.TLPM_32.Interop.xml
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\PM101R Serial Communication 1\obj\Debug\PM101R Serial Communication 1.csproj.AssemblyReference.cache
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\PM101R Serial Communication 1\obj\Debug\PM101R Serial Communication 1.csproj.CoreCompileInputs.cache
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\PM101R Serial Communication 1\obj\Debug\PM101R Serial Communication 1.csproj.CopyComplete
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\PM101R Serial Communication 1\obj\Debug\PM101R Serial Communication 1.exe
+C:\Users\Techsupport_PC\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\TLPM\MS.NET_CS\PM101R Serial Communication 1\obj\Debug\PM101R Serial Communication 1.pdb
