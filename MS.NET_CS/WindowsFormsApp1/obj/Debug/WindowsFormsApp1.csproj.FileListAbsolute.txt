@@ -1,0 +1,13 @@
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\WindowsFormsApp1\bin\Debug\Thorlabs.TLPM_32.Interop.dll
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\WindowsFormsApp1\bin\Debug\Thorlabs.TLPM_32.Interop.xml
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

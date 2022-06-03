@@ -4,13 +4,13 @@
  <Namespaces>
   <Namespace Name="Thorlabs.TLPM_32.Interop.Sample">
    <Messages>
-    <Message Id="TLPM" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2022-03-03 02:44:10Z" FixCategory="Breaking">
+    <Message Id="TLPM" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2022-06-03 02:51:15Z" FixCategory="Breaking">
      <Issue Name="Namespace" Certainty="85" Level="Error">Correct the casing of 'TLPM' in namespace name 'Thorlabs.TLPM_32.Interop.Sample' by changing it to 'Tlpm'.</Issue>
     </Message>
-    <Message Id="Thorlabs" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Active" Created="2022-03-03 02:44:10Z" FixCategory="Breaking">
+    <Message Id="Thorlabs" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Active" Created="2022-06-03 02:51:15Z" FixCategory="Breaking">
      <Issue Name="Namespace" Certainty="75" Level="CriticalWarning">Correct the spelling of 'Thorlabs' in namespace name 'Thorlabs.TLPM_32.Interop.Sample'.</Issue>
     </Message>
-    <Message TypeName="IdentifiersShouldNotContainUnderscores" Category="Microsoft.Naming" CheckId="CA1707" Status="Active" Created="2022-03-03 02:44:10Z" FixCategory="Breaking">
+    <Message TypeName="IdentifiersShouldNotContainUnderscores" Category="Microsoft.Naming" CheckId="CA1707" Status="Active" Created="2022-06-03 02:51:15Z" FixCategory="Breaking">
      <Issue Name="Namespace" Certainty="95" Level="Error">Remove the underscores from namespace name 'Thorlabs.TLPM_32.Interop.Sample'.</Issue>
     </Message>
    </Messages>
@@ -21,10 +21,10 @@
    <Modules>
     <Module Name="sample.exe">
      <Messages>
-      <Message TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014" Status="Active" Created="2022-03-03 02:44:10Z" FixCategory="NonBreaking">
+      <Message TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014" Status="Active" Created="2022-06-03 02:51:15Z" FixCategory="NonBreaking">
        <Issue Certainty="95" Level="Error">Mark 'Sample.exe' with CLSCompliant(true) because it exposes externally visible types.</Issue>
       </Message>
-      <Message TypeName="MarkAssembliesWithNeutralResourcesLanguage" Category="Microsoft.Performance" CheckId="CA1824" Status="Active" Created="2022-03-03 02:44:10Z" FixCategory="NonBreaking">
+      <Message TypeName="MarkAssembliesWithNeutralResourcesLanguage" Category="Microsoft.Performance" CheckId="CA1824" Status="Active" Created="2022-06-03 02:51:15Z" FixCategory="NonBreaking">
        <Issue Certainty="95" Level="Warning">Because assembly 'Sample.exe' contains a ResX-based resource file, mark it with the NeutralResourcesLanguage attribute, specifying the language of the resources within the assembly. This could improve lookup performance the first time a resource is retrieved.</Issue>
       </Message>
      </Messages>
@@ -35,36 +35,36 @@
          <Members>
           <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2022-03-03 02:44:10Z" FixCategory="DependsOnFix">
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2022-06-03 02:51:15Z" FixCategory="DependsOnFix">
              <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample" File="Form1.cs" Line="21">In method 'Form1.Form1()', call System.IDisposable.Dispose on object 'searchDevice' before all references to it are out of scope.</Issue>
             </Message>
-            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="Do not pass literals as localized parameters" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2022-03-03 02:44:10Z" FixCategory="DependsOnFix">
+            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="Do not pass literals as localized parameters" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2022-06-03 02:51:15Z" FixCategory="DependsOnFix">
              <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample" File="Form1.cs" Line="45">Method 'Form1.Form1()' passes a literal string as parameter 'value' of a call to 'Control.Text.set(string)'. Retrieve the following string(s) from a resource table instead: "No power meter could be found.".</Issue>
             </Message>
-            <Message TypeName="DoNotCatchGeneralExceptionTypes" Category="Microsoft.Design" CheckId="CA1031" Status="Active" Created="2022-03-03 02:44:10Z" FixCategory="NonBreaking">
+            <Message TypeName="DoNotCatchGeneralExceptionTypes" Category="Microsoft.Design" CheckId="CA1031" Status="Active" Created="2022-06-03 02:51:15Z" FixCategory="NonBreaking">
              <Issue Certainty="95" Level="CriticalError" Path="C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample" File="Form1.cs" Line="40">Modify 'Form1.Form1()' to catch a more specific exception than 'object' or rethrow the exception.</Issue>
             </Message>
-            <Message Id="err" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2022-03-03 02:44:10Z" FixCategory="NonBreaking">
+            <Message Id="err" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2022-06-03 02:51:15Z" FixCategory="NonBreaking">
              <Issue Certainty="95" Level="Warning" Path="C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample" File="Form1.cs" Line="52">'Form1.Form1()' declares a variable, 'err', of type 'int', which is never used or is only assigned to. Use this variable or remove it.</Issue>
             </Message>
-            <Message Id="pInvokeResult" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2022-03-03 02:44:10Z" FixCategory="NonBreaking">
+            <Message Id="pInvokeResult" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2022-06-03 02:51:15Z" FixCategory="NonBreaking">
              <Issue Certainty="95" Level="Warning" Path="C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample" File="Form1.cs" Line="29">'Form1.Form1()' declares a variable, 'pInvokeResult', of type 'int', which is never used or is only assigned to. Use this variable or remove it.</Issue>
             </Message>
-            <Message Id="System.Double.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-03-03 02:44:10Z" FixCategory="NonBreaking">
+            <Message Id="System.Double.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-06-03 02:51:15Z" FixCategory="NonBreaking">
              <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample" File="Form1.cs" Line="53">Because the behavior of 'double.ToString()' could vary based on the current user's locale settings, replace this call in 'Form1.Form1()' with a call to 'double.ToString(IFormatProvider)'. If the result of 'double.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
             </Message>
            </Messages>
           </Member>
           <Member Name="#Dispose(System.Boolean)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
            <Messages>
-            <Message Id="tlpm" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2022-03-03 02:44:10Z" FixCategory="NonBreaking">
+            <Message Id="tlpm" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2022-06-03 02:51:15Z" FixCategory="NonBreaking">
              <Issue Certainty="75" Level="Warning" Path="C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample" File="Form1.Designer.cs" Line="15">'Form1' contains field 'Form1.tlpm' that is of IDisposable type: 'TLPM'. Change the Dispose method on 'Form1' to call Dispose or Close on this field.</Issue>
             </Message>
            </Messages>
           </Member>
           <Member Name="#InitializeComponent()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
            <Messages>
-            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="Do not pass literals as localized parameters" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2022-03-03 02:44:10Z" FixCategory="DependsOnFix">
+            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="Do not pass literals as localized parameters" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2022-06-03 02:51:15Z" FixCategory="DependsOnFix">
              <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample" File="Form1.Designer.cs" Line="51">Method 'Form1.InitializeComponent()' passes a literal string as parameter 'value' of a call to 'Control.Text.set(string)'. Retrieve the following string(s) from a resource table instead: "?".</Issue>
              <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample" File="Form1.Designer.cs" Line="61">Method 'Form1.InitializeComponent()' passes a literal string as parameter 'value' of a call to 'Control.Text.set(string)'. Retrieve the following string(s) from a resource table instead: "Form1".</Issue>
              <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_PowerMeter_TLPM_DotNET_cs\MS.NET_CS\Thorlabs.TLPM.Interop.Sample" File="Form1.Designer.cs" Line="42">Method 'Form1.InitializeComponent()' passes a literal string as parameter 'value' of a call to 'Control.Text.set(string)'. Retrieve the following string(s) from a resource table instead: "Power = ".</Issue>
